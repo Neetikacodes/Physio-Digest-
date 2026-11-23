@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "date": "2026-11-23",
+    "pmid": "43066527",
+    "title": "Microdosing in Plyometric Training: Effects of Frequency Distribution on Physical Performance in Team-Sport Athletes-A Systematic Review and Meta-Analysis",
+    "study_type": "Meta-analysis",
+    "topic": "Sports",
+    "journal": "Scandinavian journal of medicine & science in sports",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43066527/",
+    "summary": {
+      "en": "How weekly plyometric jump training (PJT) should be distributed remains uncertain because frequency and volume often covary. This systematic review and meta-analysis compared higher- versus lower-frequency PJT in healthy team-sport athletes, with matched or closely matched cumulative/average weekly planned volume as the primary comparison and unequal-volume comparisons analyzed separately. Twelve studies were included, and 11 contributed quantitative data."
+    },
+    "takeaway": {}
+  },
+  {
+    "date": "2026-11-23",
+    "pmid": "43064868",
+    "title": "Rehabilitation Strategies for Upper Limb Function After Breast Cancer Treatment, with and Without Lymphedema: The Potential of Proprioceptive Neuromuscular Facilitation - A Systematic Review",
+    "study_type": "Systematic review",
+    "topic": "Neurological",
+    "journal": "Current oncology reports",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064868/",
+    "summary": {
+      "en": "Six trials (366 women) were included: three enrolled women with confirmed BCRL and three women without BCRL. PNF was mostly part of multimodal programs, but the between-group contrast isolated PNF in four trials. In BCRL trials, limb volume decreased in all groups, with no consistent advantage of PNF over active comparators."
+    },
+    "takeaway": {}
+  },
+  {
+    "date": "2026-11-23",
+    "pmid": "43064839",
+    "title": "Efficacy of laser therapy for subacromial impingement syndrome: a network meta-analysis of randomized controlled trials",
+    "study_type": "",
+    "topic": "Orthopaedic",
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064839/",
+    "summary": {
+      "en": "The study compared the effects of high-intensity laser therapy (HILT), low-level laser therapy (LLLT), and conventional physical therapy (CPT) on shoulder pain and function in patients with subacromial impingement syndrome (SIS). Eight databases were searched for randomized controlled trials (RCTs). The outcomes in this study were pain (visual analogue scale, VAS) and shoulder function (Shoulder Pain and Disability Index, SPADI)."
+    },
+    "takeaway": {}
+  }
+]
