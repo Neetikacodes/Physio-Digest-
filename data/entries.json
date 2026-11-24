@@ -1,5 +1,47 @@
 [
   {
+    "date": "2026-11-24",
+    "pmid": "43075172",
+    "title": "Structured exercise is associated with improved functional outcomes in myopathies and related neuromuscular diseases: a systematic review and exploratory dose-response meta-analysis",
+    "study_type": "Meta-analysis",
+    "topic": "Sports",
+    "journal": "Frontiers in public health",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43075172/",
+    "summary": {
+      "en": "twenty-two reports representing 21 independent studies and 614 participants across the reported study cohorts were included in the systematic review. The corrected quantitative data set comprised 21 valid effects from 13 independent trials; 403 participants contributed data to the primary analysis. The primary analysis found a positive pooled effect (g = 0.567, 95% CI 0.268 to 0.867; p = 0.001; I 2 = 44.8%), although the 95% prediction interval crossed zero (-0.243 to 1.377)."
+    },
+    "takeaway": {}
+  },
+  {
+    "date": "2026-11-24",
+    "pmid": "43074462",
+    "title": "Lee Silverman Voice Treatment-BIG Group Therapy Effects on Motor Function, Occupational Performance, Activities of Daily Living, Depression, and Quality of Life in Patients With Stroke",
+    "study_type": "Randomized trial",
+    "topic": "Neurological",
+    "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43074462/",
+    "summary": {
+      "en": "BACKGROUND This study investigated the additional effects of Lee Silverman Voice Treatment-BIG (LSVT-BIG) group therapy when combined with conventional rehabilitation on motor function in patients with stroke. Occupational performance, activities of daily living, depression, and quality of life were secondary outcomes. MATERIAL AND METHODS Sixteen patients were randomly assigned to an experimental (n=8) or control group (n=8)."
+    },
+    "takeaway": {}
+  },
+  {
+    "date": "2026-11-24",
+    "pmid": "43073269",
+    "title": "Effect of transcutaneous auricular vagus nerve stimulation on postoperative liver injury in patients undergoing partial hepatectomy: a phase II clinical randomized trial",
+    "study_type": "Randomized trial",
+    "topic": "General",
+    "journal": "Nature communications",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43073269/",
+    "summary": {
+      "en": "Perioperative liver injury is a common complication following partial hepatectomy in patients with hepatocellular carcinoma. Preclinical studies have shown that transcutaneous auricular vagus nerve stimulation (taVNS) has hepatoprotective effects, but clinical evidence remains limited. This study is a phase II, prospective, double-blind, randomized trial involving 140 patients undergoing partial hepatectomy, in which the active-taVNS group received 60-minute stimulation sessions at four time points: during the first hepatic pedicle clamping, after extubation in the post-anesthesia care unit, and on postoperative days 1 and 2 between 6:00 AM and 7:00 AM."
+    },
+    "takeaway": {}
+  },
+  {
     "date": "2026-11-23",
     "pmid": "43066527",
     "title": "Microdosing in Plyometric Training: Effects of Frequency Distribution on Physical Performance in Team-Sport Athletes-A Systematic Review and Meta-Analysis",
