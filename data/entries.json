@@ -1,5 +1,47 @@
 [
   {
+    "date": "2026-11-25",
+    "pmid": "43077650",
+    "title": "MobilityAPP: A Randomized Controlled Trial Evaluating Gait-Focused Physiotherapy in Parkinson Disease and Atypical Parkinsonian Syndromes",
+    "study_type": "Randomized trial",
+    "topic": "Neurological",
+    "journal": "Neurology",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43077650/",
+    "summary": {
+      "en": "Of 167 patients screened, 160 were included (mean age 67.4, 51.2% female) and 151 completed the study per protocol (85 with APD, 66 with PD; 76 GPT, 75 SPT). GPT was comparable to SPT in improving self-paced gait speed (95% CI -0.04 to 0.04; p = 0.949). However, positive changes in daily-life mobility metrics were observed that favored the GPT intervention."
+    },
+    "takeaway": {}
+  },
+  {
+    "date": "2026-11-25",
+    "pmid": "43076152",
+    "title": "Progressive Wuqinxi Cardiac Rehabilitation Based on Dual-Heart Theory in Patients with Chronic Heart Failure",
+    "study_type": "Randomized trial",
+    "topic": "Cardiopulmonary",
+    "journal": "Journal of visualized experiments : JoVE",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43076152/",
+    "summary": {
+      "en": "Chronic heart failure (CHF) is associated with declining exercise tolerance, impaired quality of life, and high readmission rates despite guideline-directed therapy. Cardiac rehabilitation is recommended, yet scalable models that integrate mind-body regulation with somatic cardiac recovery remain limited in China. Grounded in the Dual-Heart Theory (coordination of the somatic heart and the mind/spirit), we developed a 12-week Progressive Wuqinxi cardiac rehabilitation program and tested it in a randomized controlled trial."
+    },
+    "takeaway": {}
+  },
+  {
+    "date": "2026-11-25",
+    "pmid": "43073047",
+    "title": "Effect of a theory-informed multicomponent exercise program on cognitive function and other health outcomes among older adults with mild cognitive impairment: the MIND-STEP randomized controlled trial",
+    "study_type": "Randomized trial",
+    "topic": "Geriatric",
+    "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43073047/",
+    "summary": {
+      "en": "Compared with unstructured usual care, the MIND-STEP program significantly improved MoCA-B at 12 weeks (mean difference = 2.78; 95% confidence interval [CI]: 1.88 to 3.68, p < 0.001, standardized mean difference = 1.23; 95% CI: 0.83 to 1.63), with benefits observed at 6 weeks and maintained at 24 weeks. Intrinsic capacity, physical performance, depressive symptoms and sleep quality also improved. DISCUSSION: The MIND-STEP program improved cognition and overall health in nursing-home residents with MCI compared with unstructured usual care, supporting structured exercise and behavior-change strategies in routine nursing-home care."
+    },
+    "takeaway": {}
+  },
+  {
     "date": "2026-11-24",
     "pmid": "43075172",
     "title": "Structured exercise is associated with improved functional outcomes in myopathies and related neuromuscular diseases: a systematic review and exploratory dose-response meta-analysis",
