@@ -1,5 +1,47 @@
 [
   {
+    "date": "2026-11-26",
+    "pmid": "43083944",
+    "title": "Analysis of PFNA closed reduction and internal fixation combined with extracorporeal shock wave therapy for intertrochanteric femoral fractures",
+    "study_type": "Randomized trial",
+    "topic": "Orthopaedic",
+    "journal": "Lasers in medical science",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43083944/",
+    "summary": {
+      "en": "The intervention group demonstrated shorter times to full weight-bearing and fracture healing than the control group (both P < 0.001). Compared with preoperative values, HHS scores increased at 1, 3, and 6 months postoperatively in both groups, with higher scores in the intervention group (P < 0.001, P < 0.001, and P = 0.004, respectively). Compared with preoperative values, VAS scores decreased at 1, 3, and 6 months in both groups, with lower scores in the intervention group (all P < 0.001)."
+    },
+    "takeaway": {}
+  },
+  {
+    "date": "2026-11-26",
+    "pmid": "43081352",
+    "title": "Acute Effects of Resistance Exercise Volume on Physiological and Psychological Outcomes in Adults Diagnosed with Major Depressive Disorder: A Randomized Crossover Study",
+    "study_type": "Randomized trial",
+    "topic": "Geriatric",
+    "journal": "Journal of functional morphology and kinesiology",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43081352/",
+    "summary": {
+      "en": "Twenty-four participants [20 women (83.3%)] were included. Training volume (3944.8 ± 1471.5 vs. 7603.9 ± 2800.2 kg, p < 0.001, d = 1.64) and RPE (6.2 ± 1.3 vs."
+    },
+    "takeaway": {}
+  },
+  {
+    "date": "2026-11-26",
+    "pmid": "43080240",
+    "title": "Exercise interventions for glycemic control in adults with type 2 diabetes mellitus: a three-level meta-analysis with exploratory machine-learning analysis",
+    "study_type": "Meta-analysis",
+    "topic": "General",
+    "journal": "Frontiers in endocrinology",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43080240/",
+    "summary": {
+      "en": "Exercise significantly improved glycemic control (g = -0.738, 95% CI -1.046 to -0.430, p < 0.001), corresponding to reductions of 0.52% in HbA1c, 1.13 mmol/L in fasting glucose and 1.87 mmol/L in 2-hour postprandial glucose. Heterogeneity was substantial (I2 = 86.0%, tau2 = 1.125; 95% prediction interval -2.98 to 1.50). All three outcomes improved significantly, whereas between-modality differences were not significant (p = 0.544)."
+    },
+    "takeaway": {}
+  },
+  {
     "date": "2026-11-25",
     "pmid": "43077650",
     "title": "MobilityAPP: A Randomized Controlled Trial Evaluating Gait-Focused Physiotherapy in Parkinson Disease and Atypical Parkinsonian Syndromes",
