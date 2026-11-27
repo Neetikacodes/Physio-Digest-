@@ -1,5 +1,47 @@
 [
   {
+    "date": "2026-11-27",
+    "pmid": "43097585",
+    "title": "Effects of gamification-based exercise interventions on physical activity level, functional capacity, and quality of life in patients with cardiovascular and pulmonary diseases: a systematic review and meta-analysis",
+    "study_type": "Meta-analysis",
+    "topic": "Cardiopulmonary",
+    "journal": "Einstein (Sao Paulo, Brazil)",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43097585/",
+    "summary": {
+      "en": "Eight articles were included, totalling 2734 participants (50.5% male, 18-80 yrs). There were no studies involving patients with pulmonary diseases. Gamification increased patients' daily step count (SMD: 0.39, 95%CI= 0.26-0.52)."
+    },
+    "takeaway": {}
+  },
+  {
+    "date": "2026-11-27",
+    "pmid": "43096779",
+    "title": "Effects of Mechanical Diagnosis and Therapy and Related Interventions for Low Back Pain According to Reported Therapist Training Status: A Systematic Review and Meta-Analysis",
+    "study_type": "Meta-analysis",
+    "topic": "Neurological",
+    "journal": "BioMed research international",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43096779/",
+    "summary": {
+      "en": "A total of 2173 records were identified through database searches. Eighteen studies met the eligibility criteria. Nine studies explicitly reported that MDT was delivered by formally trained therapists, whereas nine did not provide sufficient information to determine therapist training status."
+    },
+    "takeaway": {}
+  },
+  {
+    "date": "2026-11-27",
+    "pmid": "43095819",
+    "title": "Resistance Training to Failure Improves Strength and Performance in Frail Older Adults Regardless of Intensity",
+    "study_type": "Randomized trial",
+    "topic": "Geriatric",
+    "journal": "Journal of cachexia, sarcopenia and muscle",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43095819/",
+    "summary": {
+      "en": "For the full cohort, leg press 1RM increased from 101 ± 27 kg at baseline to 126 ± 35 kg postintervention (+25 kg; p < 0.001) and leg extension 1RM from 52 ± 17 to 69 ± 21 kg (+17 kg; p < 0.001). Physical performance significantly improved (SPPB +0.4 points, from 9.7 ± 1.8 to 10.1 ± 1.8; 5-times chair stand -1.0 s, from 15.1 ± 4.9 to 14.1 ± 4.6; 30-s chair stand +1.0 repetitions, from 11.2 ± 3.7 to 12.3 ± 3.3), while 4-m gait speed showed minimal change (from 1.07 ± 0.2 to 1.05 ± 0.23 m/s). Across the intensity levels, no optimal intensity was identified, and the protein intervention had no influence on the intensity-response pattern."
+    },
+    "takeaway": {}
+  },
+  {
     "date": "2026-11-26",
     "pmid": "43083944",
     "title": "Analysis of PFNA closed reduction and internal fixation combined with extracorporeal shock wave therapy for intertrochanteric femoral fractures",
