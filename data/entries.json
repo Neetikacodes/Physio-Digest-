@@ -1,5 +1,47 @@
 [
   {
+    "date": "2026-11-28",
+    "pmid": "43102371",
+    "title": "Effects of combined training on hormones, hematological markers, and inflammatory parameters related to intestinal permeability in individuals with obesity",
+    "study_type": "Randomized trial",
+    "topic": "Geriatric",
+    "journal": "Archives of endocrinology and metabolism",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43102371/",
+    "summary": {
+      "en": "The CT group exhibited percentage increases in lymphocytes (10.2%), monocytes (11.6%), testosterone/cortisol (42.8%), and lymphocyte/monocyte ratio (4.7%). In addition, decreases were observed in cortisol (-24.9%), lipopolysaccharide (-8.0%), prostaglandin E2 (-24.1%), neutrophil/lymphocyte ratio (-2.0%), platelet/lymphocyte ratio (-4.5%), and the systemic inflammatory index (-2.2%). CONCLUSION: Combined training decreases inflammatory markers associated with intestinal permeability and improves the anabolic/catabolic balance and hematological markers in individuals with obesity."
+    },
+    "takeaway": {}
+  },
+  {
+    "date": "2026-11-28",
+    "pmid": "43102359",
+    "title": "Efficacy of Physical Activity Interventions in Athletic Rehabilitation for Musculoskeletal Injuries: A Systematic Review",
+    "study_type": "Systematic review",
+    "topic": "Sports",
+    "journal": "Journal of visualized experiments : JoVE",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43102359/",
+    "summary": {
+      "en": "Sports injuries involving the musculoskeletal system are highly prevalent and can prolong recovery and increase the likelihood of reinjury. This systematic review evaluated the effectiveness of physical activity-based rehabilitation for athletes with musculoskeletal injuries, synthesizing data from 50 studies published between August 2010 and December 2025 across seven databases, including randomized controlled trials, prospective cohort studies, systematic reviews, and clinical practice guidelines. They covered a range of athletes, from recreational to elite, and various injuries, including anterior cruciate ligament (ACL) reconstruction, ankle sprains, hamstring strains, groin injuries, tendinopathy, shoulder impingement, and patellofemoral pain."
+    },
+    "takeaway": {}
+  },
+  {
+    "date": "2026-11-28",
+    "pmid": "43101819",
+    "title": "Effectiveness of Aerobic Exercise on Functional Capacity, Quality of Life and Pulmonary Function in COPD Patients: A Systematic Review and Meta-Analysis with Trial Sequential Analysis",
+    "study_type": "Meta-analysis",
+    "topic": "Cardiopulmonary",
+    "journal": "International journal of chronic obstructive pulmonary disease",
+    "year": "2026",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43101819/",
+    "summary": {
+      "en": "2043 participants were included in 26 RCTs. Aerobic exercises had significant improvements on 6MWT (MD 38.78, 95% CI 28.87-48.68, 95%PI -1.96 to 79.52), CAT (MD -4.26, 95% CI -5.80 to -2.71, 95%PI -10.03 to 1.52), SGRQ (MD -8.96, 95% CI -12.26 to -5.65, 95%PI-21.66 to 3.75), FEV1%pred (MD 5.98, 95% CI 3.61-8.35, 95%PI -1.60 to 13.56), and FEV1/FVC% (MD 3.76, 95% CI 2.47-5.06, 95%PI 0.08 to 7.45). GRADE rated evidence as moderate for 6MWT, CAT, SGRQ, and FEV1/FVC%, but low for FEV1%pred."
+    },
+    "takeaway": {}
+  },
+  {
     "date": "2026-11-27",
     "pmid": "43097585",
     "title": "Effects of gamification-based exercise interventions on physical activity level, functional capacity, and quality of life in patients with cardiovascular and pulmonary diseases: a systematic review and meta-analysis",
